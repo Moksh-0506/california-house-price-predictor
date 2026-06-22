@@ -37,8 +37,6 @@ The project includes data preprocessing, feature transformation, model training,
 
 ## Files
 
-## Files
-
 - `housing.csv` - Training dataset
 - `input.csv` - Input dataset used for prediction
 - `output.csv` - Generated predictions
